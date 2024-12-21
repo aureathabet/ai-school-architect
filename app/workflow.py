@@ -8,7 +8,6 @@ workflow = StateGraph(AgentState)
 workflow.add_node("Reviewer", review_node)
 workflow.add_node("Researcher", research_node)
 workflow.add_node("Coder", code_node)
-workflow.add_node("QA Tester", test_node)
 workflow.add_node("supervisor", supervisor_chain)
 
 # Ensure that all workers report back to the supervisor.

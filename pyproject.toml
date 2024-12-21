@@ -19,7 +19,7 @@ python-dotenv = "^1.0.1"
 langchain_experimental = "^0.0.60"
 langgraph = "^0.0.66"
 langchain = "^0.2.3"
-
+matplotlib = "^3.7.1"  # Added matplotlib for rendering PDFs
 
 
 [tool.poetry.group.dev.dependencies]

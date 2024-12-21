@@ -1,0 +1,19 @@
+**Feedback for Introduction to Quadratics Lesson**
+
+1. **Content Coverage**: The lesson provides a comprehensive introduction to quadratics, suitable for 8th-grade students. It covers the definition, components, graphing, solving, and applications effectively.
+
+2. **Real-World Examples**: The inclusion of simple and complex real-world examples for each section is commendable. It helps students relate abstract concepts to practical scenarios, enhancing understanding and engagement.
+
+3. **Clarity and Structure**: The lesson is well-structured, with clear headings and subheadings. Each concept is explained clearly and concisely, making it easy for students to follow.
+
+4. **Mathematical Notation**: The use of LaTeX for mathematical notation is appropriate and enhances readability. Ensure that students are familiar with this notation or provide a brief introduction.
+
+5. **Quiz and Exercises**: The quiz is well-designed, with questions that reinforce the lesson's content. The division into easy, medium, and hard exercises caters to different learning levels and helps in assessing understanding.
+
+6. **Answer Key**: The solutions and answer key are accurate and provide clear explanations. This is useful for both students and educators in assessing and understanding the exercises.
+
+7. **Engagement**: While the lesson is informative, consider adding interactive elements such as online graphing tools or videos to further engage students.
+
+8. **Additional Resources**: Providing links to additional resources or further reading could benefit students who wish to explore the topic more deeply.
+
+Overall, the lesson is effective and well-prepared for the target grade level. With a few enhancements, it can become even more engaging and informative.

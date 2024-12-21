@@ -1,10 +1,12 @@
-version: '3.8'
-
 services:
   deployment:
     build:
       context: .
     env_file:
       - .env
+    environment:
+         - PYTHONPATH=/code
     ports:
       - "8080:8080"
+    volumes:
+     - G:/bloomtech/projects/ai-school-architect/app/projects:/code/app/projects  # Map host directory to container
